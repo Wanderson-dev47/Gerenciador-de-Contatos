@@ -2,6 +2,9 @@
 
 Este projeto é uma aplicação simples de gerenciamento de contatos, desenvolvida em **JavaScript**, **HTML** e **CSS**. Ele permite ao usuário adicionar, visualizar e remover contatos com facilidade, mantendo uma lista dinâmica de informações.
 
+![image](https://github.com/user-attachments/assets/9ed9cf2d-d114-4526-b8b9-1fb4b19cdb5f)
+
+
 ## Funcionalidades
 
 - **Adicionar Contato**: Os usuários podem adicionar novos contatos fornecendo nome e número de telefone.
