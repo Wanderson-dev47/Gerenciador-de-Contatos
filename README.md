@@ -4,6 +4,8 @@ Este projeto é uma aplicação simples de gerenciamento de contatos, desenvolvi
 
 ![image](https://github.com/user-attachments/assets/9ed9cf2d-d114-4526-b8b9-1fb4b19cdb5f)
 
+![image](https://github.com/user-attachments/assets/eb9bd8b8-74ac-423b-9dd1-5e2b38181172)
+
 
 ## Funcionalidades
 
